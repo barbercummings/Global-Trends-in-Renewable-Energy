@@ -8,17 +8,17 @@
 - Education
 
 ## Data Sources
-APIs
+APIs <br />
 <https://api.worldbank.org/v2/en/country/all/indicator/EG.FEC.RNEW.ZS?format=json&per_page=20000&source=2> <br />
 <https://restcountries.eu/rest/v2/all> <br />
 
-Data Files
-<https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh>
-<https://ourworldindata.org/tertiary-education>
-<https://ourworldindata.org/energy-production-and-changing-energy-sources>
-<https://ourworldindata.org/fossil-fuels>
-<https://data.worldbank.org/indicator/EG.USE.ELEC.KH.PC>
-<https://data.worldbank.org/indicator/EG.IMP.CONS.ZS>
+Data Files <br />
+<https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh> <br />
+<https://ourworldindata.org/tertiary-education> <br />
+<https://ourworldindata.org/energy-production-and-changing-energy-sources> <br />
+<https://ourworldindata.org/fossil-fuels> <br />
+<https://data.worldbank.org/indicator/EG.USE.ELEC.KH.PC> <br />
+<https://data.worldbank.org/indicator/EG.IMP.CONS.ZS> <br />
 
 ## GDP / Crude Oil Price / Population
 

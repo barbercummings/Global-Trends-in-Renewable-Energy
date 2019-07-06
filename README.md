@@ -7,6 +7,18 @@
 - Energy Import
 - Education
 
+## Data Sources
+APIs
+https://api.worldbank.org/v2/en/country/all/indicator/EG.FEC.RNEW.ZS?format=json&per_page=20000&source=2
+https://restcountries.eu/rest/v2/all
+Data Files
+https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh
+https://ourworldindata.org/tertiary-education
+https://ourworldindata.org/energy-production-and-changing-energy-sources
+https://ourworldindata.org/fossil-fuels
+https://data.worldbank.org/indicator/EG.USE.ELEC.KH.PC
+https://data.worldbank.org/indicator/EG.IMP.CONS.ZS
+
 ## GDP / Crude Oil Price / Population
 
 ## Emission

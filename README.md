@@ -31,3 +31,10 @@ We thought maybe if a country was more dependent on importing its energy it woul
 
 ## Education
 Doing a scatter plot clearly indicatres that education has no correlation with Renewable Energy. Infact, countries with renewable energy has less college enrollment.
+
+##GDP
+For the smaller islands the percent renewables is low as the GDP is low.It is interesting to note the trend of Countries like Somalia which have low gdp and very high percent renewables.They have high sun and wind resources.For growing economies like India and Brazil the percent renewables is doing good.We also tried to see the relationship of percent renewable with gdp per capita.For oil producing countries with high gdp per capita the percent renewable is very low.For countries like Norway which has very high gdp per capita the percent renwable is high as these countries are able to invest more in renewables.We also introduced a new parameter which was population.
+For countries which have high gdp and high population like India,China,US,Brazil the energy needs are higher and difficult to meet.
+##Oil price
+Looking at the plot there may or may not be a relationship between average renewables and oil price.When the oil price dips in 2009 leading to more consumption of oil,the average renewable starts to dip as its demand decreases
+
